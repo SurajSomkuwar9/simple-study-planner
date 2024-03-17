@@ -1,0 +1,157 @@
+{
+	"17th March 2024": {
+	  "Week 1 (Group A) - 5 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["ML (2h)", "Cloud (1h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["Compiler (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["Data Science (2h)"]
+		  }
+		]
+	  }
+	},
+	"18th March 2024": {
+	  "Week 1 (Group A) - 5 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["ML (2h)", "Cloud (1h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["Compiler (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["Data Science (2h)"]
+		  }
+		]
+	  }
+	},
+	"19th March 2024": {
+	  "Week 1 (Group A) - 5 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["ML (2h)", "Cloud (1h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["Compiler (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["Data Science (2h)"]
+		  }
+		]
+	  }
+	},
+	"20th March 2024": {
+	  "Week 1 (Group A) - 5 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["ML (2h)", "Cloud (1h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["Compiler (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["Data Science (2h)"]
+		  }
+		]
+	  }
+	},
+	"21st March 2024": {
+	  "Week 1 (Group A) - 5 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["ML (2h)", "Cloud (1h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["Compiler (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["Data Science (2h)"]
+		  }
+		]
+	  }
+	},
+	"22nd March 2024": {
+	  "Week 1 (Group B) - 2 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["DSRM (2h)", "DWM (2h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["AA (2h)", "CN (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["CN (2h)", "Cloud (1h)"]
+		  }
+		]
+	  }
+	},
+	"23rd March 2024": {
+	  "Week 1 (Group B) - 2 days": {
+		"Morning": [
+		  {
+			"Time": "8-11AM",
+			"Subjects": ["DSRM (2h)", "DWM (2h)"]
+		  }
+		],
+		"Afternoon": [
+		  {
+			"Time": "12-3PM",
+			"Subjects": ["AA (2h)", "CN (2h)"]
+		  }
+		],
+		"Evening": [
+		  {
+			"Time": "4-7PM",
+			"Subjects": ["CN (2h)", "Cloud (1h)"]
+		  }
+		]
+	  }
+	}
+  }
+  
