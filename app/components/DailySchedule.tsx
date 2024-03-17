@@ -19,7 +19,10 @@ interface DailyScheduleProps {
 }
 
 const DailySchedule: React.FC<DailyScheduleProps> = ({ schedule, selectedDate }) => {
-  const formattedDate = format(selectedDate, "dd' 'MMMM' 'yyyy");
+  // Format the selected date to match the keys in the timetable data
+  const formattedDate = format(selectedDate, "do MMMM yyyy");
+
+  // Retrieve the schedule for the formatted date
   const currentSchedule = schedule[formattedDate];
 
   if (!currentSchedule) {
