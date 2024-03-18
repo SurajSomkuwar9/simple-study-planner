@@ -1,4 +1,4 @@
-// pages/index.tsx
+// app/page.tsx
 "use client";
 import React, { useState } from 'react';
 import DailySchedule from './components/DailySchedule';
