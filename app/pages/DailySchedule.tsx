@@ -27,7 +27,7 @@ const DailySchedule: React.FC<DailyScheduleProps> = ({ schedule, selectedDate })
   }
 
   return (
-    <div>
+    <div className='flex flex-col gap-4'>
       <h2 className="text-xl font-bold mb-4">Schedule for {formattedDate}</h2>
       <div className="divide-y divide-gray-200">
         {Object.entries(currentSchedule).map(([week, weekSchedule]) => (

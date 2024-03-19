@@ -1,7 +1,7 @@
 // app/page.tsx
 "use client";
 import React, { useState } from 'react';
-import DailySchedule from './components/DailySchedule';
+import DailySchedule from './pages/DailySchedule';
 import timetableData from './timetable.json';
 import { format, parseISO } from 'date-fns';
 
