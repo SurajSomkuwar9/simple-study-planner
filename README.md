@@ -9,6 +9,15 @@
 
 Study Planner is a web application built with Next.js, Tailwind CSS, and TypeScript that allows users to view their study schedule based on the provided timetable data.
 
+
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,typescript,express,nodejs,firebase,mongodb" /><br>
+</div>
+
+<br/>
+
 ## Features
 
 - **Dynamic Date Selection**: Users can select a date using a date picker, and the application will display the study schedule for that date.
