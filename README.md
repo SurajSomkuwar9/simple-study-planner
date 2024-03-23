@@ -18,6 +18,17 @@ Study Planner is a web application built with Next.js, Tailwind CSS, and TypeScr
 
 <br/>
 
+
+We used nextjs14 which provides server actions, which are asynchronous functions on the server side.
+which can handle any sort of<br/>
+-form submissions<br/>
+-data mutations<br/>
+-and other serverside operations<br/> 
+directly within Nextjs applications, without the need of any separate API endpoint. 
+It basically helps us in building interactive, and dynamic web applications with it and a streamlined way to perform server-side logic directly from your components.
+
+
+
 ## Features
 
 - **Dynamic Date Selection**: Users can select a date using a date picker, and the application will display the study schedule for that date.
