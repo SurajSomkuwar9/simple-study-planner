@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SurajSomkuwar9/simple-study-planner/wip/output-onlinegiftools.gif" width="400">
+</div>
+
+
 
 ---
 <dl>
