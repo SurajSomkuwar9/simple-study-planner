@@ -1,8 +1,6 @@
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/SurajSomkuwar9/simple-study-planner/wip/output-onlinegiftools.gif" width="360">
 </div>
-
-
 
 ---
 <dl>
