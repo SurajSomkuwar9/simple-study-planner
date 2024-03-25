@@ -7,7 +7,6 @@ import { format, parseISO } from 'date-fns';
 
 const IndexPage: React.FC = () => {
   const timetable = timetableData;
-  const dates = Object.keys(timetable);
 
   const [selectedDate, setSelectedDate] = useState(new Date());
 
