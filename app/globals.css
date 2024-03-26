@@ -2,3 +2,13 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.container {
+  position: relative; /* Add position */
+  z-index: 1; /* Set zIndex to 1 for the container */
+}
+
+input[type="date"] {
+  position: relative; /* Add position */
+  z-index: 1; /* Set zIndex to 1 for the input */
+}
